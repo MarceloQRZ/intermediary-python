@@ -28,7 +28,7 @@ for pk, pv in perguntas.items():
         print("RESPOSTA ERRADA!! :(")
 
 if(pontuacao <= 1):
-    print(f"vpce acertou {pontuacao} resposta")
+    print(f"voce acertou {pontuacao} resposta")
 else:
-    print(f"vce acertou {pontuacao} respostas")
+    print(f"voce acertou {pontuacao} respostas")
 
